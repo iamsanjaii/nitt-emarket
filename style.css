@@ -96,6 +96,9 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.banner img {
+}
 ::-webkit-scrollbar {
   display: none;
 }
